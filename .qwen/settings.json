@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir *)",
+      "Bash(echo *)",
+      "Bash(genisoimage *)",
+      "Bash(mkisofs *)",
+      "Bash(xorriso *)"
+    ]
+  },
+  "$version": 3
+}
